@@ -26,6 +26,8 @@ public class Assertionwithlocator {
 		//driver.findElement(By.xpath("//*[text()='Log Out']")).click();
 		driver.findElement(By.xpath("//*[contains(text(),'Log Out')]")).click();
 		System.out.println("print me");
+		System.out.println("print her");
+		System.out.println("print them");
 		}
 
 }

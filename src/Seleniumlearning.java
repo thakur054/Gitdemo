@@ -12,7 +12,9 @@ public class Seleniumlearning {
         System.out.println(driver.getTitle());
        System.out.println(driver.getCurrentUrl());
        //driver.close();
- 
+		System.out.println("print me");
+		System.out.println("print her");
+		System.out.println("print them");
  
 	}
 
